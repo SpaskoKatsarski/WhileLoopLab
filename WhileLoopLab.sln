@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadText", "ReadText\ReadText.csproj", "{0BE6E52E-B694-4818-AC20-6AD1E319E0D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadText", "ReadText\ReadText.csproj", "{0BE6E52E-B694-4818-AC20-6AD1E319E0D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{1B22AF12-61F3-4B27-A76A-1B18DFA6577A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password", "Password\Password.csproj", "{1B22AF12-61F3-4B27-A76A-1B18DFA6577A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation", "Graduation\Graduation.csproj", "{E63DB387-E300-4407-AFE3-98253EC6C3B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graduation", "Graduation\Graduation.csproj", "{E63DB387-E300-4407-AFE3-98253EC6C3B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNumber", "MinNumber\MinNumber.csproj", "{7D3A84DF-C174-4263-9420-1B5919741C54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinNumber", "MinNumber\MinNumber.csproj", "{7D3A84DF-C174-4263-9420-1B5919741C54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNumber", "MaxNumber\MaxNumber.csproj", "{F9E8E5E2-26D3-4BDD-879A-4DD9866D71DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxNumber", "MaxNumber\MaxNumber.csproj", "{F9E8E5E2-26D3-4BDD-879A-4DD9866D71DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{406A82EF-D616-4351-9D22-A55AB600A888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{406A82EF-D616-4351-9D22-A55AB600A888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence2k+1", "Sequence2k+1\Sequence2k+1.csproj", "{4F920885-3BB2-48B4-9DAB-38775A8EF0A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sequence2k+1", "Sequence2k+1\Sequence2k+1.csproj", "{4F920885-3BB2-48B4-9DAB-38775A8EF0A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalance", "AccountBalance\AccountBalance.csproj", "{E90823D1-5B21-4A31-9FBF-C89B387FD8AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountBalance", "AccountBalance\AccountBalance.csproj", "{E90823D1-5B21-4A31-9FBF-C89B387FD8AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving", "Moving\Moving.csproj", "{643BB2ED-DD2F-46E5-981A-5017FDC6909C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E90823D1-5B21-4A31-9FBF-C89B387FD8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E90823D1-5B21-4A31-9FBF-C89B387FD8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E90823D1-5B21-4A31-9FBF-C89B387FD8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643BB2ED-DD2F-46E5-981A-5017FDC6909C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643BB2ED-DD2F-46E5-981A-5017FDC6909C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643BB2ED-DD2F-46E5-981A-5017FDC6909C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643BB2ED-DD2F-46E5-981A-5017FDC6909C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

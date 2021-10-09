@@ -12,7 +12,7 @@ namespace Graduation
             int grade = 1;
             double failedAttempts = 0;
 
-            while (grade <= 12) 
+            while (grade <= 12)
             {
                 double yearMark = double.Parse(Console.ReadLine());
 
